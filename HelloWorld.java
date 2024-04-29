@@ -20,10 +20,16 @@ public class HelloWorld {
         System.out.println("Method f2 is called.");
     }
 
-    private void f3() {
-        // Method f3 implementation
-        System.out.println("Method f3 is called.");
-    }
-
+  private void f3() {
+    // Updated implementation
+    System.out.println("Updated method f3 with hotfix.");
 }
+
+    }
+    private void f4() {
+    System.out.println("Method f4 is being developed.");
+}
+
+
+
 
